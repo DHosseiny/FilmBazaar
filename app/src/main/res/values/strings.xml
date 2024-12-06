@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FilmBazzar</string>
+    <string name="bazzar_logo">bazzar logo</string>
+    <string name="discover">Discover</string>
+    <string name="default_error">Something went wrong</string>
+    <string name="try_again">Try Again</string>
+    <string name="poster_description">%1$s poster</string>
+    <string name="icon_refresh_error">icon refresh error</string>
+    <string name="connection_glitch">Connection glitch</string>
+    <string name="seems_like_there_s_an_internet_connection_problem">Seems like there\'s an internet connection problem.</string>
+    <string name="retry">Retry</string>
+</resources>
